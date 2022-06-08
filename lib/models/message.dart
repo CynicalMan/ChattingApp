@@ -14,43 +14,43 @@ class Message {
 final Client currentUser = Client(
   id: 0, 
   name: 'Current User', 
-  imageUrl: 'assets/images/greg.jbg'
+  imageUrl: 'assets/images/greg.jpg'
 );
 
 final Client greg = Client(
   id: 1, 
   name: 'Greg', 
-  imageUrl: 'assets/images/greg.jbg'
+  imageUrl: 'assets/images/greg.jpg'
 );
 final Client james = Client(
   id: 2, 
   name: 'James', 
-  imageUrl: 'assets/images/james.jbg'
+  imageUrl: 'assets/images/james.jpg'
 );
 final Client john = Client(
   id: 3, 
   name: 'John', 
-  imageUrl: 'assets/images/john.jbg'
+  imageUrl: 'assets/images/john.jpg'
 );
 final Client olivia = Client(
   id: 4, 
   name: 'Olivia', 
-  imageUrl: 'assets/images/olivia.jbg'
+  imageUrl: 'assets/images/olivia.jpg'
 );
 final Client sam = Client(
   id: 5, 
   name: 'Sam', 
-  imageUrl: 'assets/images/sam.jbg'
+  imageUrl: 'assets/images/sam.jpg'
 );
 final Client sophia = Client(
   id: 6, 
   name: 'Sophia', 
-  imageUrl: 'assets/images/sophia.jbg'
+  imageUrl: 'assets/images/sophia.jpg'
 );
 final Client steven = Client(
   id: 7, 
   name: 'Steven', 
-  imageUrl: 'assets/images/steven.jbg'
+  imageUrl: 'assets/images/steven.jpg'
 );
 
 List<Client> favorites = [sam,steven,olivia,john,greg];
