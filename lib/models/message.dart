@@ -59,16 +59,16 @@ List<Message> chats = [
   Message(
     sender: steven, 
     time: '5:39', 
-    text: 'lofdgkfhjf fjhhfjhfjf fjfkjflfjhf jlfh', 
+    text: 'lofdgkfhjf fjhhfjhfjf fjfkjflfjhf jlfh edyctfvygibuhonjmk,kmojnpibihbuvbuvugbuhbohbibijbib', 
     isLiked: false, 
-    unread: true
+    unread: false
   ),
   Message(
     sender: james, 
     time: '5:39', 
     text: 'lofdgkfhjf fjhhfjhfjf fjfkjflfjhf jlfh', 
     isLiked: false, 
-    unread: true
+    unread: false
   ),
   Message(
     sender: sam, 
@@ -161,7 +161,7 @@ List<Message> messages = [
   Message(
     sender: sophia, 
     time: '5:39', 
-    text: 'lofdgkfhjf fjhhfjhfjf fjfkjflfjhf jlfh', 
+    text: 'lorem ipsium omar ahmed rtrt yuyu yuyu opopopghghghgh lorem ipsium omar ahmed hjjjhh', 
     isLiked: false, 
     unread: true
   ),
