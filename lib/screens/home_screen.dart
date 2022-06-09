@@ -1,5 +1,7 @@
+import 'package:chatting_appv1/models/message.dart';
 import 'package:chatting_appv1/widgets/category_selector.dart';
 import 'package:chatting_appv1/widgets/favorite_contacts.dart';
+import 'package:chatting_appv1/widgets/recent_chats.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
@@ -59,6 +61,7 @@ class _HomeState extends State<Home> {
               child: Column(
                 children: <Widget>[
                   FavoriteContacts(),
+                  RecentChats(),
                 ],
               ),
             ),
